@@ -111,7 +111,7 @@ df_seeds_test <- df_seeds[-idx,]
 **Respuesta**:
 
 ```{r}
-#Es aconsejable dividir el dataset en los grupos de train y test , por qué el conjunto de entrenamiento "df_seeds_train"  se usará para que el modelo que distinga las semillas del Kama del resto.Mientras que  el conjunto  de prueba "df_seeds_test"se usará para evaluar el rendimiento del modelo entrenado.
+#Es aconsejable dividir el dataset en los grupos de train y test , por qué el conjunto de entrenamiento "df_seeds_train"  se usará para que el modelo  distinga las semillas del Kama del resto.Mientras que  el conjunto  de prueba "df_seeds_test"se usará para evaluar el rendimiento del modelo entrenado.
 ```
 
 #### PREGUNTA 8 (1pt)
